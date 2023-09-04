@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+  }
+  
+  .navbar_logo {
+    width: 50px;
+  }
+
+  .navbar_features {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+  }
+
+  .navbar_features a {
+    color: white;
+    text-decoration: none;
+  }

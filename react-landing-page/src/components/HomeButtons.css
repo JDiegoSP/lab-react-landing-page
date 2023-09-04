@@ -1,0 +1,28 @@
+.HomeButtons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.HomeButtons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  border-radius: 45px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  height: 50px;
+}
+
+#firstButton {
+  background-color: #087ea4;
+  color: white;
+  border: 1px solid black;
+}
+
+#secondButton {
+  background-color: #23272f;
+  color: white;
+  border: 1px solid grey;
+}

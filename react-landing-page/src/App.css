@@ -1,0 +1,18 @@
+.App-Principal {
+  height: 85vh;
+  background-color: #23272f;
+}
+
+.App-Secundary {
+  height: 80vh;
+  background-color: #1a1c22;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App.light {
+  background-color: white;
+  color: rgb(59, 59, 76);
+  margin: 0;
+}
